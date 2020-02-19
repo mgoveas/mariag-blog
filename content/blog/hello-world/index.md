@@ -1,7 +1,7 @@
 ---
 title: Blogging with Gatsby
 date: "2020-02-18T22:12:03.284Z"
-description: "Hello World"
+description: "First Post"
 ---
 
 This is my first blog post using [Gatsby](https://www.gatsbyjs.org/), a static site generator. I've previously blogged at [Wordpress](https://mariagoveas.wordpress.com) and also at Blogger many moons ago. 
@@ -12,6 +12,7 @@ I chose Gatsby because of the following
 2. Technology used is modern JS, CSS, rich data integration using GraphQL - these are what I am familar with and the platform should make it easier to plugin in my content. This also provides an opportunity for evaluating new technologies and processes as they are plugged in to the framework, eg [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 3. Community and Adoption - Extensions and resources are available to speed up generation of rich content for the site. 
 
-I have deployed the site to 
+I have deployed the site to [Amazon S3](https://aws.amazon.com/s3/) and set up a CI/CD pipeline using [TravisCI]().
+
 
 
