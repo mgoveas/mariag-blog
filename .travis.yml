@@ -11,3 +11,9 @@ deploy:
   skip_cleanup: true
   acl: public_read
   region: us-west-1
+  keep-history: true
+  local-dir: public
+  target-branch: master
+  verbose: true
+  on:
+    branch: master
